@@ -56,8 +56,4 @@ source ~/.bashrc
 
 No additional dependencies are required.
 
-## License
 
-Use it, modify it, break it, improve it.
-
-Made for fun.
